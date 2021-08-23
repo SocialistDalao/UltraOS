@@ -10,7 +10,7 @@ The documents have no English version and the developers have no plan to do so. 
 
 Because the commits are too large to be imported to Github, we delete all the history commits and branches. If you need them, click the link: https://gitee.com/LoanCold/ultraos_backup
 
-UltraOS团队也在2020年开发了“拥有友好代码和详细文档的基于双发射处理器的 UltraMIPS 系统”（https://github.com/SocialistDalao/UltraMIPS_NSCSCC）。
+UltraOS团队也在2020年开发了“拥有友好代码和详细文档的基于双发射处理器的 UltraMIPS 系统”(https://github.com/SocialistDalao/UltraMIPS_NSCSCC)。
 
 #### 运行
 根目录下Makefile提供了两个命令。
