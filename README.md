@@ -6,6 +6,12 @@ UltraOS: A developer friendly project that has detailed documents of **RISC-V mu
 
 The documents have no English version and the developers have no plan to do so. But we have English comments in codes which might help, or you can use translation tools to get more detail about this project.
 
+因为commits太多，并且包含太多大文件，github导入git失败了，于是我把git历史及分支清除了，完整版本在gitee (https://gitee.com/LoanCold/ultraos_backup)。
+
+Because the commits are too large to be imported to Github, we delete all the history commits and branches. If you need them, click the link: https://gitee.com/LoanCold/ultraos_backup
+
+UltraOS团队也在2020年开发了“拥有友好代码和详细文档的基于双发射处理器的 UltraMIPS 系统”（https://github.com/SocialistDalao/UltraMIPS_NSCSCC）。
+
 #### 运行
 根目录下Makefile提供了两个命令。
 
